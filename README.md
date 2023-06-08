@@ -1,2 +1,2 @@
 # timbila
-timbila boys
+School Website
