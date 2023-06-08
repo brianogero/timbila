@@ -1,2 +1,2 @@
-# timbila
+# School Website
 School Website
